@@ -105,7 +105,7 @@ const PostFormtwo = () => {
 
         };
 
-        //if user empty throw error else merge the form data in firebase
+        
           //if user empty throw error else merge the form data in firebase
         if (onecheck==="" || twocheck==="" || fourcheck==="" || fivecheck==="" || sixcheck==="")
         {
