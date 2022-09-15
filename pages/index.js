@@ -9,7 +9,7 @@ import Header from "../component/module/Header";
 
 // import {EditorState} from 'draft-js'
 // import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
-
+// aura of authenticity
 export default function Home() {
 
   // const [editorState, setEditorState] = useState(()=> EditorState.createEmpty());
